@@ -53,24 +53,22 @@
 ### Mobile Development  
 ![React Native](https://img.shields.io/badge/React_Native-blue?logo=react)
 
----
-
 ## 📊 GitHub Stats  
 
-![Dilshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshadshah123&show_icons=true&theme=tokyonight)
+[![Dilshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshadshah123&show_icons=true&theme=tokyonight)](https://github.com/dilshadshah123)
 
 ---
 
 ## 🔥 GitHub Streak  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=dilshadshah123&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dilshadshah123&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
 ## 🏆 GitHub Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=dilshadshah123&theme=onedark)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=dilshadshah123&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
 
-⭐ Keep Learning • Keep Coding • Keep Growing
+
+
