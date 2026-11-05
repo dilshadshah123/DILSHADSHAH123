@@ -64,19 +64,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-[![Dilshad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dilshadshah123&show_icons=true&theme=tokyonight)](https://github.com/dilshadshah123)
+![Dilshad's GitHub Stats](https://github-stats-extended.vercel.app/api?username=dilshadshah123&show_icons=true&theme=tokyonight)
 
 ---
-
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=dilshadshah123&theme=tokyonight)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=dilshadshah123&theme=tokyonight)
 
 ---
-
 ## 🚀 My Projects
 
 <!-- Add your actual project links here -->
